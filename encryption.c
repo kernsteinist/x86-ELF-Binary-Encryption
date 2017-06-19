@@ -225,7 +225,8 @@ _________________________________________________________________________
 
 int main(int argc,char **argv){
 
-
+/* kernsteinist.blogspot.com.tr */
+  
 Elf32_Ehdr *EHT;
 int fd;
 int i=0;
